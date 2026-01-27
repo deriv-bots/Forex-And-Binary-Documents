@@ -1,2 +1,2 @@
 # Forex-And-Binary-Documents
-Documents
+Learning Documents & Strategies
